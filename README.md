@@ -1,1 +1,1 @@
-# alina.githib.io
+# alina.github.io
